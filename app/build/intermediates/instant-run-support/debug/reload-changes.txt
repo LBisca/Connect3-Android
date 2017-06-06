@@ -1,0 +1,2 @@
+CHANGED,/home/lucas/AndroidStudioProjects/Connect3/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/lucas/connect3/MainActivity$override.class
+CHANGED,/home/lucas/AndroidStudioProjects/Connect3/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
